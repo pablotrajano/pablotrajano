@@ -1,35 +1,35 @@
-## Hi there 👋
+# Hey, I'm Pablo 👋
 
-I'm Pablo Trajano, a Computer Education undergraduate student at the University of Brasília (UnB) and an IT intern at the Chamber of Deputies in Brazil. I'm currently building my path in software development, data analysis, and data science.
+I'm a Computer Science Education undergraduate student at the University of Brasília (UnB) and an IT intern at the Chamber of Deputies in Brazil.
 
-- 🔭 I’m currently working on internal systems, reports, and database-related tasks as an IT intern at the Chamber of Deputies
-- 🌱 I’m currently learning more about Python, SQL, and data analysis
-- 👯 I’m looking to collaborate on projects involving back-end development, data, or educational technology
-- 🤔 I’m looking for help with growing as a developer and moving toward Data Analysis / Data Science opportunities
-- 📫 How to reach me: **pablotrajjano@gmail.com**
-- ⚡ Fun fact: besides tech, I also have a strong background in music and interdisciplinary educational projects
+My path combines software development, data, education, music, and creative computing. I started working with internal systems, reports, databases, and .NET applications, but over time I became increasingly interested in building things that connect programming with creativity — especially games, educational technology, and interactive experiences.
 
-### About me
-I am currently in the Computer Education program at UnB, after previously completing five semesters in Electronic Engineering. My academic path has given me a multidisciplinary background that combines technology, logic, communication, creativity, and teaching experience.
+Today, I'm focusing on **Lua, PICO-8, Linux, programming fundamentals, and game development**, while also using **SQL, Excel, Power BI, and Python** to create useful data and BI solutions.
 
-### Current experience
-As an **IT Intern at the Chamber of Deputies** (since April 2025), I have worked on:
-- management reports for performance analysis
-- database checking and inconsistency investigation
-- maintenance and improvement of internal systems
-- spreadsheets for validation and asset checking
-- requirements gathering and database modeling
-- software architecture and implementation planning support
-- development of an internal system for travel verification
+I'm especially passionate about learning by building — whether it's a small 2D game, an educational activity for students, a dashboard for a real problem, or a tool that helps people understand information better.
 
-### Tech stack
-- **Languages:** C#, Python, SQL, C, JavaScript, HTML, CSS
-- **Tools:** .NET, Blazor, SQL Server, PostgreSQL, Excel, BoldReports, PgAdmin, dbForge
+---
 
-### Education
-- **B.A. in Computer Education — University of Brasília (UnB)**  
-  Currently in the 6th semester, with 69% of the program completed and expected graduation by the end of 2027
-- **Electronic Engineering — University of Brasília (UnB)**  
-  Completed 5 semesters before transitioning to Computer Education
-- **Fluent English**
-- **Professional training in Guitar and Popular Acoustic Guitar** at the Brasília School of Music
+## Current Focus 🚀
+
+- Game development with **Lua** and **PICO-8**
+- Creative coding and educational technology
+- Programming fundamentals with **Lua** and later **C**
+- Linux and Neovim-based development workflow
+- BI and data analysis with **SQL, Excel, Power BI, and Python**
+
+---
+
+## Tech Stack 🧰
+
+**Languages:** Lua, Python, SQL, C, JavaScript, HTML, CSS  
+**Game Dev:** PICO-8, Lua, 2D game logic, educational games  
+**Data/BI:** SQL Server, PostgreSQL, Excel, Power BI, BoldReports  
+**Tools:** Git, Linux, Neovim, .NET, Blazor, PgAdmin, dbForge
+
+---
+
+## How to Reach Me 📬
+
+Email: **pablotrajjano@gmail.com**  
+LinkedIn: **linkedin.com/in/pablotrajano**
