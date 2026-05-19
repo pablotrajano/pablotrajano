@@ -31,5 +31,12 @@ I'm especially passionate about learning by building — whether it's a small 2D
 
 ## How to Reach Me 📬
 
-Email: **pablotrajjano@gmail.com**  
-LinkedIn: **linkedin.com/in/pablotrajano**
+## How to Reach Me 📬
+
+<a href="mailto:pablotrajjano@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pablotrajjano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/pablotrajano" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Trajano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
