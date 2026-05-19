@@ -30,7 +30,7 @@ I'm especially passionate about learning by building — whether it's a small 2D
 ---
 ## How to Reach Me 📬
 <p>
-  <a href="https://www.instagram.com/pablo_661" target="_blank">
+  <a href="https://www.instagram.com/pablo_661/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:pablotrajjano@gmail.com">
