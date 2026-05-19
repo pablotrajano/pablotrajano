@@ -28,15 +28,15 @@ I'm especially passionate about learning by building — whether it's a small 2D
 **Tools:** Git, Linux, Neovim, .NET, Blazor, PgAdmin, dbForge
 
 ---
-
 ## How to Reach Me 📬
-
-## How to Reach Me 📬
-
-<a href="mailto:pablotrajjano@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pablotrajjano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="https://www.linkedin.com/in/pablotrajano" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Trajano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p>
+  <a href="https://www.instagram.com/pablo_661" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:pablotrajjano@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/pablotrajano" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
