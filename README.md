@@ -36,7 +36,7 @@ I'm especially passionate about learning by building — whether it's a small 2D
   <a href="mailto:pablotrajjano@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/pablotrajano" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-t-364601123/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
