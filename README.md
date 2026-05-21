@@ -6,8 +6,6 @@ I’m interested in the intersection between **programming, games, education, mu
 
 I'm especially passionate about learning by building — whether it's a small 2D game, an educational activity for students, a dashboard for a real problem, or a tool that helps people understand information better.
 
----
-
 ## Current Focus 🚀
 
 - Game development
@@ -15,17 +13,12 @@ I'm especially passionate about learning by building — whether it's a small 2D
 - Programming fundamentals
 - BI and data analysis
 
----
-
-## Tech Stack 🧰
-
 **Languages:** Lua, Python, SQL, C, JavaScript, HTML, CSS  
 **Game Dev:** PICO-8, Lua, 2D game logic, educational games  
 **Data/BI:** SQL Server, PostgreSQL, Excel, Power BI
 **Tools:** Git, Linux, .NET, Blazor, PgAdmin, dbForge, BoldReports 
 
----
-## How to Reach Me 📬
+## Reach me:
 <p>
   <a href="https://www.instagram.com/pablo_661/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
